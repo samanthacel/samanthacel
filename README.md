@@ -1,5 +1,5 @@
 # Hello there! I'm Michelle 🙋🏻‍♀️
-🎓 Studied at BINUS University majoring in Computer Science<br>👩🏻‍💻 Passionate about software engineering, frontend development, and tech<br>🎨 Enjoy art, design, and music
+🎓 Studied at BINUS University majoring in Computer Science<br>👩🏻‍💻 Passionate about software engineering, application development, and design<br>🎨 Enjoy art, design, and music
 
 
 ## 🌐 Socials
